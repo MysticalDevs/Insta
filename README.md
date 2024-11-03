@@ -11,9 +11,11 @@ Easily Download Any Instagram Reel With Just A Click! Save Your Favorite Moments
 6. Enjoy Your Saved Videos Anytime, Anywhere! 
 
 🔗 **Visit Our Website Now To Start Downloading:**  
-[**Open Website**](https://MysticalDevs.github.io/Insta)
-
----
+<div align="center">
+    <a href="https://MysticalDevs.github.io/Insta" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Open%20Website-%233399FF?style=for-the-badge&logoColor=white" alt="Open Website"/>
+    </a>
+</div>
 
 👑 _Credits:_  
 Crafted With Care By **@MysticalDevs** & **Team Hazex** ✨
