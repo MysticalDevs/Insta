@@ -11,9 +11,9 @@ Easily Download Any Instagram Reel With Just A Click! Save Your Favorite Moments
 6. Enjoy Your Saved Videos Anytime, Anywhere! 
 
 🔗 **Visit Our Website Now To Start Downloading:**  
-[**Open Website**](https://Muralibotz.github.io/Insta)
+[**Open Website**](https://MysticalDevs.github.io/Insta)
 
 ---
 
 👑 _Credits:_  
-Crafted With Care By **@MuraliBotz** & **Team Hazex** ✨
+Crafted With Care By **@MysticalDevs** & **Team Hazex** ✨
